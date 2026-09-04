@@ -1,2 +1,1 @@
-# github-recitation-s26
-Recitation Demo
+Five Guys has the best burgers!
